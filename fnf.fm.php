@@ -11,7 +11,7 @@ Version: 1.0
 /*-- Create Sortcode For FnF.fm Radio --*/
 function fnf_fm_source( $atts ){
 ?>
-<iframe src="http://plugin.fnf.fm/" width="100%" height="100%" frameborder="0" scrolling="no"></iframe>
+<iframe height="430" scrolling="no" src="http://big.fnf.fm" width="100%"></iframe>
 
 <?php
 }
@@ -56,7 +56,7 @@ class fnffmradiowidget extends WP_Widget
  
     // WIDGET CODE GOES HERE
   ?>
-<iframe src="http://plugin.fnf.fm/" width="100%" height="100%" frameborder="0" scrolling="no"></iframe>
+<iframe height="200" scrolling="no" src="http://big.fnf.fm" width="100%"></iframe>
  <?php
     echo $after_widget;
   }
