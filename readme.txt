@@ -24,7 +24,7 @@ FnF.fm is an Online Radio Station that can be used as either a widget or Short c
 
 - You can use This Radio Player in any Posts or Pages of Your website using Short code.
 
-- After Installing, a new widget named 'FnF.fm Radio' will be created. You can use this widget in your website’s sidebar or any other areas.
+- After Installing, a new widget named 'FnF.fm Radio' will be created. You can use this widget in your website sidebar or any other areas.
 
 - Just use this short code to display the radio player  [fnffm]
 
