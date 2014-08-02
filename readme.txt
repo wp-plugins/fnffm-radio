@@ -1,6 +1,6 @@
 === FnF.fm Radio ===
 
-Contributors: Arifur Rahman
+Contributors: Arifur Rahman, cartoonistarif, tstudio
 
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=SHJSMTR5FQW2N
 
