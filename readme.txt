@@ -20,7 +20,8 @@ FnF.fm is an Online Radio Station that can be used as either a widget or Short c
 
 == Description ==
 FnF.fm is an Online Radio Station that can be used as either a widget or Short code.
-- FnF.fm Radio is a Simple Radio Player that plays Popular Songs 24/7.
+
+- FnF.fm Radio is a Wonderful Radio Player that plays Popular Songs 24/7.
 
 - You can use This Radio Player in any Posts or Pages of Your website using Short code.
 
