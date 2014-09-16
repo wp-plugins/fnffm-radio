@@ -59,8 +59,6 @@ For receiving any type of support, submit your Query Here:
 == Changelog ==
 = 1.0 =
 * Initial release
-
-=1.1 =
 * Tested with Wordpress 4.0
 
 == Upgrade Notice == 
