@@ -8,7 +8,7 @@ Tags: widget, plugin, sidebar, radio, online radio, online radio plugin, radio W
 
 Requires at least: 3.0
 
-Tested up to: 3.8.1
+Tested up to: 4.0
 
 Stable tag: 1.15
 
@@ -59,6 +59,8 @@ For receiving any type of support, submit your Query Here:
 == Changelog ==
 = 1.0 =
 * Initial release
+=1.1 =
+* Tested with Wordpress 4.0
 
 == Upgrade Notice == 
 1.00
