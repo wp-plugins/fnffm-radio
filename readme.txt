@@ -54,7 +54,7 @@ You can display this player by Shortcode or widget. For Shortcode, use this [fnf
 4. Have a look at the player in Sidebar
 == Support ==
 For receiving any type of support, submit your Query Here:
-  http://support.tstudio.org/p/ticket.html
+  http://www.fnf.fm/p/contact.html
 
 == Changelog ==
 = 1.0 =
