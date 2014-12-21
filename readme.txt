@@ -4,11 +4,11 @@ Contributors: Arifur Rahman, cartoonistarif, tstudio
 
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=SHJSMTR5FQW2N
 
-Tags: widget, plugin, sidebar, radio, online radio, online radio plugin, radio WordPress plugin, radio plugin, music, music player, radio player, player, song, Short code, visualizer, songs, fnf.fm
+Tags: widget, plugin, sidebar, radio, online radio, online radio plugin, radio WordPress plugin, shoutcast, radio plugin, music, music player, radio player, player, song, Short code, visualizer, songs, fnf.fm
 
 Requires at least: 3.0
 
-Tested up to: 4.0
+Tested up to: 4.1
 
 Stable tag: 1.15
 
@@ -31,6 +31,8 @@ FnF.fm is an Online Radio Station that can be used as either a widget or Short c
 
 
 - Here is live demo: http://wp.fnf.fm/wp-radio/
+
+- FnF.fm Website: http://www.fnf.fm/
 
 == Installation ==
 
